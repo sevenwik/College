@@ -1,1 +1,1 @@
-# Solution Hub for college work 
+# Solution Hub For College Work :)
