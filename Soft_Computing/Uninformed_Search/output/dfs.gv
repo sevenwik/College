@@ -1,0 +1,13 @@
+// DFS
+graph {
+	A [color=red]
+	C [color=red]
+	L [color=red]
+	M [color=green]
+	A -- B
+	A -- C
+	C -- D
+	C -- F
+	C -- L
+	L -- M
+}
