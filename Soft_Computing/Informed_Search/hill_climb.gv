@@ -1,0 +1,14 @@
+// Hill Climb
+graph {
+	A [color=red]
+	D [color=red]
+	N [color=red]
+	A -- B
+	A -- C
+	A -- D
+	A -- E
+	D -- N
+	N -- F
+	N -- J
+	label="\n\n Hill Climb GRAPH"
+}
