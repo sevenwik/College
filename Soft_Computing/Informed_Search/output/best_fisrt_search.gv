@@ -1,0 +1,20 @@
+// Best First Search
+graph {
+	A [color=red]
+	D [color=red]
+	N [color=red]
+	J [color=red]
+	Q [color=red]
+	R [color=green]
+	A -- B
+	A -- C
+	A -- D
+	A -- E
+	D -- N
+	N -- F
+	N -- J
+	J -- G
+	J -- Q
+	Q -- R
+	label="\n\nBest First Search GRAPH"
+}
