@@ -16,5 +16,5 @@ graph {
 	J -- G
 	J -- Q
 	Q -- R
-	label="\n\nBest First Search GRAPH"
+	label="\n\nBest First Search Graph"
 }
