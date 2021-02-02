@@ -1,0 +1,27 @@
+// A* Algo
+graph {
+	A [color=red]
+	C [color=red]
+	I [color=red]
+	M [color=red]
+	O [color=red]
+	R [color=red]
+	R [color=green]
+	A -- B
+	A -- C
+	A -- D
+	A -- E
+	C -- I
+	I -- L
+	I -- F
+	I -- M
+	M -- O
+	D -- N
+	N -- F
+	N -- J
+	B -- K
+	L -- P
+	O -- R
+	O -- P
+	label="\n\n A* Algorithm Graph"
+}
