@@ -5,7 +5,6 @@ graph {
 	I [color=red]
 	M [color=red]
 	O [color=red]
-	R [color=red]
 	R [color=green]
 	A -- B
 	A -- C

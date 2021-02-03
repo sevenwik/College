@@ -1,0 +1,26 @@
+// UCS Algo
+graph {
+	A -- B [label=" 36" constraint=true]
+	A -- C [label=" 61" constraint=true]
+	B -- D [label=" 116" constraint=true]
+	C -- D [label=" 93" constraint=true]
+	C -- F [label=" 92" constraint=true]
+	C -- L [label=" 141" constraint=true]
+	F -- J [label=" 214" constraint=true]
+	F -- K [label=" 204" constraint=true]
+	D -- E [label=" 145" constraint=true]
+	L -- M [label=" 243" constraint=true]
+	E -- G [label=" 188" constraint=true]
+	G -- H [label=" 208" constraint=true]
+	K -- M [label=" 236" constraint=true]
+	K -- J [label=" 240" constraint=true]
+	H -- I [label=" 248" constraint=true]
+	J -- I [label=" 259" constraint=true]
+	A [color=red]
+	C [color=red]
+	F [color=red]
+	K [color=red]
+	M [color=red]
+	M [color=green]
+	label="\n\n UCS Algorithm Graph"
+}
