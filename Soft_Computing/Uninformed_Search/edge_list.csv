@@ -1,7 +1,7 @@
 from,to,cost
 A,B,36
 A,C,61
-B,D,80
+B,D,31
 C,D,32
 D,E,52
 E,G,43
