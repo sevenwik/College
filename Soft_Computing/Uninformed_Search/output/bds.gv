@@ -1,0 +1,25 @@
+// BFS
+graph {
+	A [color=red]
+	M [color=red]
+	B [color=red]
+	K [color=red]
+	C [color=red]
+	L [color=red]
+	D [color=red]
+	F [color=red]
+	F [color=red]
+	F [color=green]
+	M [color=green]
+	A -- B
+	A -- C
+	M -- K
+	M -- L
+	B -- D
+	K -- F
+	K -- J
+	C -- F
+	C -- L
+	D -- E
+	F -- J
+}
